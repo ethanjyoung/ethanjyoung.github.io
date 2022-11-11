@@ -15,11 +15,15 @@ redirect_from:
 
 * University of California, Los Angeles. Data Theory B.S. (Expected Graduation: June 2023)
 
+**Publications**
+
+Choi E, Smith S, **Young E**, Yang C. Comparing Shallow and Deep Graph Models for Brain Network Analysis. Published in BrainNN2022 workshop at IEEE Big Data (to appear), 2022.
+
 **Research Experience**
 
 * Undergraduate Researcher (April 2022-Present)
 
-  - Working under Dr. Mason Porter to study quantum games on networks of players. 
+  - Studying the dynamics of quantum games on networks of players under the mentorship of Dr. Mason Porter of UCLA.
 
 * Undergraduate Researcher (April 2022-Present)
 
@@ -28,11 +32,11 @@ redirect_from:
 
 * Undergraduate Researcher (August 2022-Present)
 
-  - Working under Dr. Carl Yang to apply knowledge graphs to EHR and genomics data. 
+  - Applying knowledge graphs to EHR and genomics data under the advisement of Dr. Carl Yang of Emory University.
 
-* REU Undergraduate Researcher (May 2022 - July 2022)
+* REU Participant (May 2022 - July 2022)
 
-  - Worked in a team under Dr. Carl Yang to compare the classification performance of graph kernel methods and graph neural networks (GNNs) on brain network data (constructed from fMRI scans). 
+  - Worked in a team mentored by Dr. Carl Yang at Emory University's CMDS REU.
     - Established new benchmarks for various graph data mining methods on brain network data.
     - Published a manuscript and presented a talk and poster on the project.
 
@@ -45,9 +49,5 @@ redirect_from:
 - Network Science
 - Numerical Analysis
 - Optimization Theory
-
-**Publications**
-
-Choi E, Smith S, **Young E**, Yang C. Comparing Shallow and Deep Graph Models for Brain Network Analysis. Published in BrainNN2022 workshop at IEEE Big Data (to appear), 2022.
 
 Updated 11/10/2022.
