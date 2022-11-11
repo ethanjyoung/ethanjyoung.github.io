@@ -17,7 +17,7 @@ redirect_from:
 
 **Publications**
 
-Choi E, Smith S, **Young E**, Yang C. Comparing Shallow and Deep Graph Models for Brain Network Analysis. Published in BrainNN2022 workshop at IEEE Big Data (to appear), 2022.
+* Choi E, Smith S, **Young E**, Yang C. Comparing Shallow and Deep Graph Models for Brain Network Analysis. Published in BrainNN2022 workshop at IEEE Big Data (to appear), 2022.
 
 **Research Experience**
 
