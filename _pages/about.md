@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!**
 I am a 4th year Data Theory B.S. at UCLA. Broadly speaking, my research interests span many fields in applied and computational mathematics, such as network science, dynamical systems, machine learning, and numerical analysis. My current projects include: 
 
 - Quantum games on networks (advised by Dr. Mason Porter of UCLA),
