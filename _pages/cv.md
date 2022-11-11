@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+# CV
 
-University of California, Los Angeles. Data Theory B.S. (Expected Graduation: June 2023)
+**Education**
 
-# Research Experience
+* University of California, Los Angeles. Data Theory B.S. (Expected Graduation: June 2023)
+
+**Research Experience**
 
 * Undergraduate Researcher (April 2022-Present)
 
@@ -35,7 +37,7 @@ University of California, Los Angeles. Data Theory B.S. (Expected Graduation: Ju
     - Published a manuscript and presented a talk and poster on the project.
 
 
-# Relevant Coursework
+**Relevant Coursework**
 
 - Machine Learning
 - Mathematics of Data Science
@@ -44,7 +46,7 @@ University of California, Los Angeles. Data Theory B.S. (Expected Graduation: Ju
 - Numerical Analysis
 - Optimization Theory
 
-# Publications
+**Publications**
 
 Choi E, Smith S, **Young E**, Yang C. Comparing Shallow and Deep Graph Models for Brain Network Analysis. Published in BrainNN2022 workshop at IEEE Big Data (to appear), 2022.
 
