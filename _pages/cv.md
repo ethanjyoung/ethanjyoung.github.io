@@ -48,4 +48,4 @@ University of California, Los Angeles. Data Theory B.S. (Expected Graduation: Ju
 
 Choi E, Smith S, **Young E**, Yang C. Comparing Shallow and Deep Graph Models for Brain Network Analysis. Published in BrainNN2022 workshop at IEEE Big Data (to appear), 2022.
 
-Updated as of 11/10/2022.
+Updated 11/10/2022.
