@@ -26,7 +26,7 @@ University of California, Los Angeles. Data Theory B.S. (Expected Graduation: Ju
 
 * Undergraduate Researcher (August 2022-Present)
 
-- Working under Dr. Carl Yang to apply knowledge graphs to EHR and genomics data. 
+  - Working under Dr. Carl Yang to apply knowledge graphs to EHR and genomics data. 
 
 * REU Undergraduate Researcher (May 2022 - July 2022)
 
