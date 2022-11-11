@@ -13,3 +13,5 @@ I am a 4th year at UCLA studying Data Theory. Broadly speaking, my research inte
 - dynamics of games on networks,
 - predicting glass viscosity using genetic programming, and
 - applying knowledge graphs on EHR data.
+
+You can reach me at ethanyoung \[dot\] math \[dot\] gmail \[dot\] com.
