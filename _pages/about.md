@@ -10,6 +10,6 @@ redirect_from:
 
 I am a 4th year Data Theory B.S. at UCLA. Broadly speaking, my research interests span many fields in applied and computational mathematics, such as network science, dynamical systems, machine learning, and numerical analysis. My current projects include: 
 
-- Quantum games on networks (advised by Dr. Mason Porter of UCLA),
+- Dynamics of games on networks (advised by Dr. Mason Porter of UCLA),
 - Predicting glass viscosity using genetic programming (advised by Dr. Yu Song of UCLA <a href="lab-paris.com" target="_blank">PARISlab</a>), and
 - Applying knowledge graphs on EHR data (advised by Dr. Carl Yang of Emory University).
