@@ -30,19 +30,19 @@ University of California, Los Angeles. Data Theory B.S. (Expected Graduation: Ju
 
 * REU Undergraduate Researcher (May 2022 - July 2022)
 
-  - Working under Dr. Carl Yang to compare the classification performance of graph kernel methods and graph neural networks (GNNs) on brain network data (constructed from fMRI scans). 
+  - Worked in a team under Dr. Carl Yang to compare the classification performance of graph kernel methods and graph neural networks (GNNs) on brain network data (constructed from fMRI scans). 
     - Established new benchmarks for various graph data mining methods on brain network data.
-    - Worked in a team to publish a manuscript as well as present a talk and poster on the project.
+    - Published a manuscript and presented a talk and poster on the project.
 
 
 # Relevant Coursework
 
 - Machine Learning
-- Network Science
-- Optimization Theory
 - Mathematics of Data Science
-- Dynamical Systems
 - Monte Carlo Methods
+- Network Science
+- Numerical Analysis
+- Optimization Theory
 
 # Publications
 
