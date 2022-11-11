@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="ethanjyoung.github.io/files/CV.pdf" target="_blank">PDF.</a>
+Here is my updated (as of 11/10/2022) <a href="ethanjyoung.github.io/files/CV.pdf" target="_blank">CV</a>.
