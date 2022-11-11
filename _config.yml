@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ethan Young"
 title_separator          : "-"
 name                     : &name "Ethan Young"
-description              : &description "networks, dynamics, ML"
+description              : &description "Personal Website"
 url                      : https://ethanjyoung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ethanjyoung.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ethan Young"
   avatar           : "pfp.png"
-  bio              :
+  bio              : "networks, dynamics, ML"
   location         : 
   employer         :
   pubmed           :
