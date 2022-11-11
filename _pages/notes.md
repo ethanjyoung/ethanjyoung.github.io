@@ -11,7 +11,7 @@ redirect_from:
 
 # Undergraduate Course Projects
 
-MATH 42: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, Everything
+MATH 42: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
 *  [2021 MCM Project A: Fungus.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf){:target="_blank"}
 
