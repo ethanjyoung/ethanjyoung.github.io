@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year at UCLA, studying Data Theory. Broadly speaking, my research interests span many fields in applied and computational mathematics, such as network science, dynamical systems, machine learning, and numerical analysis. My current projects include: 
+I am a 4th year at UCLA studying Data Theory. Broadly speaking, my research interests are in network science, nonlinear science, machine learning, and numerical analysis. My ongoing projects include:
 
-- Dynamics of games on networks (advised by Dr. Mason Porter of UCLA),
-- Predicting glass viscosity using genetic programming (advised by Dr. Yu Song of UCLA PARISlab), and
-- Applying knowledge graphs on EHR data (advised by Dr. Carl Yang of Emory University).
+- dynamics of games on networks,
+- predicting glass viscosity using genetic programming, and
+- applying knowledge graphs on EHR data.
