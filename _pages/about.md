@@ -16,4 +16,4 @@ I am a 4th year at UCLA studying Data Theory. My research interests generally em
 
 Outside of academics and research, I enjoy cooking, playing games (e.g., table tennis, board games, video games), and watching movies.
 
-You can reach me at ethanyoung \[dot\] math \[dot\] gmail \[dot\] com.
+You can reach me at ethanyoung \[dot\] math \[at\] gmail \[dot\] com.
