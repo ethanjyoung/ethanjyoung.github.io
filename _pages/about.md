@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year at UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis. Fields / topics I would like to do work in include toplogical data analysis, mean field games (and applications), and manifold learning. My ongoing projects include:
+I am a 4th year at UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis. My ongoing projects include:
 
 - dynamics of games on networks,
 - predicting glass viscosity using genetic programming, and
