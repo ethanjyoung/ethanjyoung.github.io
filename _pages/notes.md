@@ -13,7 +13,7 @@ redirect_from:
 
 MATH 42: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
-*  [2021 MCM Project A: Fungus.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf){:target="_blank"}
+*  [2021 MCM Project A: Fungus.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf)
 
 
 MATH 168: Introduction to Networks
