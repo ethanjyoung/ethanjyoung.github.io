@@ -25,7 +25,7 @@ redirect_from:
 
 * Undergraduate Researcher (April 2022-Present)
 
-  - Studying the dynamics of quantum games on networks of players under the mentorship of Dr. Mason Porter of UCLA.
+  - Studying the dynamics of games in the chaotic regime on networks of players under the mentorship of Dr. Mason Porter of UCLA.  
 
 * Undergraduate Researcher (April 2022-Present)
 
