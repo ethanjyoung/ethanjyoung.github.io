@@ -11,7 +11,7 @@ redirect_from:
 
 # Undergraduate Course Projects
 
-Here are some projects of varying quality.
+Here are some fun projects I did in my undergraduate coursework.
 
 * **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
