@@ -11,8 +11,6 @@ redirect_from:
 
 # Undergraduate Course Projects
 
-Here are some fun projects I did in my undergraduate coursework.
-
 * **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
   - [2021 MCM Project A: Fungus.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf)
