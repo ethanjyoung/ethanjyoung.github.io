@@ -11,18 +11,20 @@ redirect_from:
 
 # Undergraduate Course Projects
 
-MATH 42: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
+Here are some projects of varying quality.
 
-*  [2021 MCM Project A: Fungus.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf)
+* **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
-
-MATH 168: Introduction to Networks
-
-* [Analysis of a protein-document-biochemical pathway network using a variety of methods.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989458/math_168_project.pdf)
+  - [2021 MCM Project A: Fungus.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf)
 
 
-STAT 184: Societal Impacts of Data
+* **MATH 168**: Introduction to Networks
 
-* [Survey of methods addressing sample selection bias.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989459/stats_184_project.pdf)
+  - [Analysis of a protein-document-biochemical pathway network using a variety of methods.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989458/math_168_project.pdf)
+
+
+* **STAT 184**: Societal Impacts of Data
+
+  - [Survey of methods addressing sample selection bias.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989459/stats_184_project.pdf)
 
 
