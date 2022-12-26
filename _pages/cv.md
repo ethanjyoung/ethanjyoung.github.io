@@ -21,6 +21,10 @@ redirect_from:
 
 1. Choi E, Smith S, **Young E**. Comparing Shallow and Deep Graph Models for Brain Network Analysis, _IEEE Big Data BrainNN2022 Workshop_ (to appear), 2022
 
+## Talks
+
+1. IEEE BigData 2022: BrainNN2022. Osaka, Japan.
+
 ## Research Experience
 
 * Undergraduate Researcher (April 2022-Present)
