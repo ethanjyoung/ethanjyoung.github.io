@@ -40,7 +40,7 @@ redirect_from:
 
   - Applying knowledge graphs to EHR and genomics data under the advisement of Dr. Carl Yang of Emory University.
 
-* REU Participant (May 2022--July 2022)
+* REU Participant (May 2022&mdash;July 2022)
 
   - Worked in a team mentored by Dr. Carl Yang at Emory University's CMDS REU.
     - Established new benchmarks for various graph data mining methods on brain network data.
