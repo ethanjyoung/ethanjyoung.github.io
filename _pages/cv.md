@@ -27,20 +27,20 @@ redirect_from:
 
 ## Research Experience
 
-* Undergraduate Researcher (April 2022---Present)
+* Undergraduate Researcher (April 2022--Present)
 
   - Studying the dynamics of games in the chaotic regime on networks of players under the mentorship of Dr. Mason Porter of UCLA.  
 
-* Undergraduate Researcher (April 2022---Present)
+* Undergraduate Researcher (April 2022--Present)
 
   - Working under Dr. Yu Song at UCLA PARISlab (Physics of AmoRphous and Inorganic Solids Lab) in the machine learning group. 
     - Predicted and modeled glass viscosity using symbolic regression and genetic programming.
 
-* Undergraduate Researcher (August 2022---December 2022)
+* Undergraduate Researcher (August 2022--December 2022)
 
   - Applying knowledge graphs to EHR and genomics data under the advisement of Dr. Carl Yang of Emory University.
 
-* REU Participant (May 2022---July 2022)
+* REU Participant (May 2022--July 2022)
 
   - Worked in a team mentored by Dr. Carl Yang at Emory University's CMDS REU.
     - Established new benchmarks for various graph data mining methods on brain network data.
