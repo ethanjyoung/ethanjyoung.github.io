@@ -36,7 +36,7 @@ redirect_from:
   - Working under Dr. Yu Song at UCLA PARISlab (Physics of AmoRphous and Inorganic Solids Lab) in the machine learning group. 
     - Predicted and modeled glass viscosity using symbolic regression and genetic programming.
 
-* Undergraduate Researcher (August 2022-Present)
+* Undergraduate Researcher (August 2022-December 2022)
 
   - Applying knowledge graphs to EHR and genomics data under the advisement of Dr. Carl Yang of Emory University.
 
