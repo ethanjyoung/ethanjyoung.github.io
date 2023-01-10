@@ -19,11 +19,11 @@ redirect_from:
 
 ### Conferences
 
-1. Choi E, Smith S, **Young E**. <a href="ethanjyoung.github.io/blob/master/brainnn_manuscript.pdf" target="_blank">Comparing Shallow and Deep Graph Models for Brain Network Analysis.</a>, _IEEE BigData BrainNN2022 Workshop_ (to appear), 2022
+1. Choi E, Smith S, **Young E**. <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/brainnn_manuscript.pdf" target="_blank">Comparing Shallow and Deep Graph Models for Brain Network Analysis</a>, _IEEE BigData BrainNN2022 Workshop_ (to appear), 2022
 
 ## Talks
 
-1. IEEE BigData 2022: BrainNN2022. Osaka, Japan. <a href="ethanjyoung.github.io/blob/master/brainnn_slides.pdf" target="_blank">Slides.</a>
+1. IEEE BigData 2022: BrainNN2022. Osaka, Japan. <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/brainnn_slides.pdf" target="_blank">Slides.</a>
 
 ## Research Experience
 
