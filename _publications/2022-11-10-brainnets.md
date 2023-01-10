@@ -4,7 +4,7 @@ collection: publications
 permalink:
 excerpt: 'We benchmark the classification performance of graph kernel SVM and GNNs on neuroimaging data.'
 date: 2022-11-10
-venue: 'BrainNN2022 at IEEE Big Data (to appear)'
+venue: 'BrainNN2022 at IEEE BigData (to appear)'
 paperurl:
 citation:
 ---
