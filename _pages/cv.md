@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/cv_jan_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
+<a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/cv_jan_2023.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
