@@ -23,7 +23,7 @@ redirect_from:
 
 ## Talks
 
-1. IEEE BigData 2022: BrainNN2022. Osaka, Japan.
+1. IEEE BigData 2022: BrainNN2022. Osaka, Japan. <a href="ethanjyoung.github.io/brainnn_slides.pdf" target="_blank">Slides.</a>
 
 ## Research Experience
 
@@ -45,15 +45,5 @@ redirect_from:
   - Worked in a team mentored by Dr. Carl Yang at Emory University's CMDS REU.
     - Established new benchmarks for various graph data mining methods on brain network data.
     - Published a manuscript and presented a talk and poster on the project.
-
-
-## Relevant Coursework
-
-- Machine Learning
-- Mathematics of Data Science
-- Monte Carlo Methods
-- Network Science
-- Numerical Analysis
-- Optimization Theory
 
 Updated 11/15/2022.
