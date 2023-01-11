@@ -11,6 +11,4 @@ citation:
 
 _Joint with Erica Choi and Sally Smith; mentored by Dr. Carl Yang_
 
-These are the <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/brainnn_slides.pdf" download>slides</a>.
-
 In this project, we benchmark the classification performance of graph kernel SVM and GNNs on neuroimaging data.
