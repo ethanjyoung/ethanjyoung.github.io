@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[embed]https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/cv_jan_2023.pdf[/embed]
+https://docs.google.com/viewer?url=$https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/cv_jan_2023.pdf
