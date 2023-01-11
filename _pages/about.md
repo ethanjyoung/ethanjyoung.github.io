@@ -10,9 +10,11 @@ redirect_from:
 
 I am a 4th year at UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis. My ongoing projects include:
 
-- dynamics of games on networks,
+- node and edge perturbations in networks,
 - predicting glass viscosity using genetic programming, and
 - applying knowledge graphs to EHR data.
+
+Here is my full <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/cv_jan_2023.pdf" download>CV</a>.
 
 Outside of academics and research, I enjoy cooking, playing games (e.g., table tennis, board games, video games), and watching movies.
 
