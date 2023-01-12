@@ -86,9 +86,9 @@ author:
   location         : 
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=0mDMWqkAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ethan-Young-9"
   uri              :
   bitbucket        :
   codepen          :
