@@ -13,16 +13,16 @@ redirect_from:
 
 * **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
-  - [2021 MCM Project A: Fungus.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf)
+  - [There is a Fungus Among Us (2021 MCM Project A: Fungus)](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989451/math_42_project.pdf).
 
 
 * **MATH 168**: Introduction to Networks
 
-  - [Analysis of a protein-document-biochemical pathway network using a variety of methods.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989458/math_168_project.pdf)
+  - [Network Analysis: Cardiovascular Disease Subtype Association and Ion Channel Proteins](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989458/math_168_project.pdf). [Code](https://github.com/irsyadadam/Analysis-of-CVD-subtypes-using-Random-Projections-Clustering).
 
 
 * **STAT 184**: Societal Impacts of Data
 
-  - [Survey of methods addressing sample selection bias.](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989459/stats_184_project.pdf)
+  - [Survey of methods addressing sample selection bias](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989459/stats_184_project.pdf).
 
 
