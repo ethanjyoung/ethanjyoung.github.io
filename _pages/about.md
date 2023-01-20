@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 4th year at UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis. My ongoing projects include:
 
-- node and edge perturbations in networks,
+- approximating the effects of network perturbations,
 - predicting glass viscosity using genetic programming, and
 - applying knowledge graphs to EHR data.
 
