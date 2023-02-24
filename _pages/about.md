@@ -14,7 +14,7 @@ I am a 4th year at UCLA studying Data Theory. My research interests generally em
 - predicting glass viscosity using genetic programming, and
 - applying knowledge graphs to EHR data.
 
-Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/cv_jan_2023.pdf" download>CV</a>.
+Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/cv_feb_2023.pdf" download>CV</a>.
 
 Outside of academics, I enjoy cooking, playing games (e.g., table tennis, board games, video games), and watching movies.
 
