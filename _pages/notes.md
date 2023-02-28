@@ -22,9 +22,8 @@ redirect_from:
 
 * **MATH 168**: Introduction to Networks
 
-  - My group worked on a disease-protein-document network analysis. Here is our [report](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989458/math_168_project.pdf). 
-  - Here is our [repository](https://github.com/irsyadadam/Analysis-of-CVD-subtypes-using-Random-Projections-Clustering).
-  - Here are the <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/math_168_slides.pdf" download>slides</a>.
+  - My group worked on a disease-protein-document network analysis. 
+  - Here is our [report](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989458/math_168_project.pdf), [repository](https://github.com/irsyadadam/Analysis-of-CVD-subtypes-using-Random-Projections-Clustering), and <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/math_168_slides.pdf" download>slides</a>.
 
 * **STAT 147**: Data Technologies for Data Scientists
 
