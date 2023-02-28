@@ -4,7 +4,7 @@ collection: publications
 permalink:
 excerpt:
 date: 2022-11-10
-venue: 'BrainNN at IEEE Big Data 2022'
+venue: '2022 IEEE International Conference on Big Data'
 paperurl:
 citation:
 ---
