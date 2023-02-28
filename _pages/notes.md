@@ -27,7 +27,7 @@ redirect_from:
 
 * **STAT 147**: Data Technologies for Data Scientists
 
-  - A slide deck overviewing federated learning, its limitations, and recent advances in the field.
+  - A slide deck overviewing federated learning, its applications, and recent advances in the field.
 
 * **STAT 184**: Societal Impacts of Data
 
