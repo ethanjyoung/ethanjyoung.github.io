@@ -17,8 +17,8 @@ redirect_from:
 
 * **MATH 148**: Experience of Data Science
 
-  - My group performed data engineering and data analysis with a large dataset from an industry partner.
-  - We also communicated our findings to them, which is contained in this report.
+  - My group performed data engineering and data analysis with a dataset from an industry partner.
+  - We also communicated our findings to them, which is contained in a report.
 
 * **MATH 168**: Introduction to Networks
 
