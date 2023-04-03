@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year at UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis. My ongoing projects include:
+I recently graduated from UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis. My ongoing projects include:
 
 - approximating the effects of network perturbations,
 - predicting glass viscosity using genetic programming, and
