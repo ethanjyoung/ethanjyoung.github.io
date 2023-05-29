@@ -13,7 +13,7 @@ I recently graduated from UCLA studying Data Theory. My research interests gener
 - characterizing perturbations for the Kuramoto model on networks and
 - predicting glass viscosity using symbolic regression with genetic programming.
 
-Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/cv_feb_2023.pdf" download>CV</a>.
+Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/CV.pdf" download>CV</a>.
 
 Outside of academics, I enjoy cooking, playing games (e.g., table tennis, board games, video games), and watching movies.
 
