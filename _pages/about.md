@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis. My ongoing projects include:
-
-- characterizing perturbations for the Kuramoto model on networks and
-- predicting glass viscosity using symbolic regression with genetic programming.
+I graduated from UCLA studying Data Theory. My research interests generally emerged from my coursework and include network science, nonlinear science, machine learning, and numerical analysis.
 
 Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/CV.pdf" download>CV</a>.
 
