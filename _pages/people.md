@@ -9,11 +9,12 @@ I am not currently working with anyone.
 
 My past advisors and collaborators include:
 * **Faculty**
+  - Mathieu Bauchy (UCLA, Civil and Environmental Engineering)
   - Mason Porter (UCLA, Mathematics)
   - Carl Yang (Emory University, Computer Science)
 
 * **Postdoctoral scientists**
-  - Yu Song (UCLA, Civil Engineering)
+  - Yu Song (UCLA, Civil and Environmental Engineering)
 
 * **Graduate students**
   - None so far.
