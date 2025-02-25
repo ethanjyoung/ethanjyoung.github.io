@@ -3,8 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Projects"
+    url: /projects/
+
   - title: "Talks"
     url: /talks/
+
+  - title: "People"
+    url: /people/
    
-  - title: "Notes"
-    url: /notes/
+  - title: "Miscellaneous"
+    url: /misc/
