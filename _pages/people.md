@@ -5,11 +5,12 @@ permalink: /people/
 author_profile: true
 ---
 
-These are my past and current advisors and collaborators.
+My current advisors and collaborators include:
+* Amir Taghvaei (UW, Aeronautics and Astronautics)
 
+My past advisors and collaborators include:
 * **Faculty**
   - Mason Porter (UCLA, Mathematics)
-  - Amir Taghvaei (UW, Aeronautics and Astronautics)
   - Carl Yang (Emory University, Computer Science)
 
 * **Postdoctoral scientists**
