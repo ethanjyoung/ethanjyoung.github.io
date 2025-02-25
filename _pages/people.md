@@ -7,13 +7,13 @@ author_profile: true
 
 These are my past and current collaborators.
 
-# Faculty
+## Faculty
 * Mason Porter (UCLA, Mathematics)
 * Carl Yang (Emory University, Computer Science)
 
-# Graduate students
+## Graduate students
 * None so far.
 
-# Undergraduate students
+## Undergraduate students
 * Erica Choi
 * Sally Smith
