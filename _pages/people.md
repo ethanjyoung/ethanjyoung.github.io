@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-I am not currently working with anyone.
+I am currently working with Amir Taghvaei (UW, Aeronautics and Astronautics).
 
 My past advisors and collaborators include:
 * **Faculty**
