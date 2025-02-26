@@ -14,6 +14,4 @@ My research interests include network analysis, dynamical processes on networks,
 
 ![](https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/images/braingb.png?raw=true)
 
-Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/CV.pdf" download>CV</a>.
-
 You can reach me at ethanjy \[at\] uw \[dot\] edu.
