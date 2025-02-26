@@ -5,9 +5,10 @@ permalink: /people/
 author_profile: true
 ---
 
-I am currently working with Amir Taghvaei (UW, Aeronautics and Astronautics).
+## Current advisors and collaborators:
+* Amir Taghvaei (UW, Aeronautics and Astronautics).
 
-### My past advisors and collaborators include:
+## Past advisors and collaborators:
 * **Faculty**
   - Mathieu Bauchy (UCLA, Civil and Environmental Engineering)
   - Mason Porter (UCLA, Mathematics)
