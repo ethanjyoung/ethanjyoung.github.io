@@ -12,7 +12,7 @@ I am a Master's student at the University of Washington, studying Applied and Co
 
 My research interests include network analysis, dynamical processes on networks, and graph-based learning methods. Recently, I have been exploring problems in control theory and uncertainty quantification.
 
-![gnn](https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/images/braingb.png?raw=true)
+![](https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/images/braingb.png?raw=true)
 
 Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/CV.pdf" download>CV</a>.
 
