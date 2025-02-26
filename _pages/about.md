@@ -12,6 +12,8 @@ I am a Master's student at the University of Washington, studying Applied and Co
 
 My research interests include network science (dynamical processes on networks), machine learning (graph-based learning, deep learning theory, symbolic regression), and optimal control.
 
+![alt text](https://github.com/ethanjyoung/ethanjyoung.github.io/images/braingb.png?raw=true)
+
 Here is my <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/CV.pdf" download>CV</a>.
 
 You can reach me at ethanjy \[at\] uw \[dot\] edu.
