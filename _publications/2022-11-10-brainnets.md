@@ -13,3 +13,4 @@ _Joint with Erica Choi and Sally Smith; mentored by Carl Yang_.
 
 We benchmark the classification performance of graph kernel SVM and GNNs on neuroimaging data. Here is our <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/Comparing_Shallow_and_Deep_Graph_Models_for_Brain_Network_Analysis.pdf" download>paper</a> and <a href="https://www.math.emory.edu/site/cmds-reuret/projects/2022-brain-nets/"> website</a>.
 
+![](https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/images/braingb.png?raw=true)
