@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![](https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/images/cv.png?raw=true)
+![](https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/images/vitae.png?raw=true)
