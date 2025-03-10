@@ -14,6 +14,6 @@ My research interests include network analysis, dynamical processes on networks,
 
 ![](https://github.com/ethanjyoung/ethanjyoung.github.io/blob/master/images/braingb.png?raw=true)
 
-My Erdős number is 4 (shortest path: Paul Erdős--Fan Chung--Andrea Bertozzi--Mason A. Porter).
+My Erdős number is 4, and the shortest path is given by Paul Erdős — Fan Chung — Andrea L. Bertozzi — Mason A. Porter — Ethan Young.
 
 You can reach me at ethan \[dot\] young \[at\] ucla \[dot\] edu.
