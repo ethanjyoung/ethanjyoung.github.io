@@ -22,6 +22,5 @@ author_profile: true
 
 * **Undergraduate students**
   - Erica Choi (Columbia University)
-  - Mathias Heider (University of Delaware)
   - Sally Smith (Georgia Institute of Technology)
   - Yuetian Sun (UCLA)
