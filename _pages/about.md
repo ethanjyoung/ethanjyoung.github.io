@@ -10,7 +10,7 @@ redirect_from:
 
 I am an incoming Statistics PhD student at UCLA. I earned my MS in Applied and Computational Mathematics from the University of Washington and my BS in Data Theory from UCLA.
 
-My research interests include network analysis, dynamical processes on networks, and graph-based learning methods. Recently, I have been exploring problems in control theory and uncertainty quantification.
+My research interests include network analysis, dynamical processes on networks, and graph-based learning methods. Recently, I have been interested in studying graph neural networks with graphons.
 
 My Erdős number is 4, and the shortest path is given by Paul Erdős — Fan Chung — Andrea L. Bertozzi — Mason A. Porter — Ethan Young.
 
