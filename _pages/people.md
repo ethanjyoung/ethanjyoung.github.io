@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current advisors and collaborators:
-* Amir Taghvaei (UW, Aeronautics and Astronautics).
+* I am not currently working with anyone.
 
 ## Past advisors and collaborators:
 * **Faculty**
