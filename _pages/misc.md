@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Undergraduate Course Projects
+# Graduate Course Projects (UW)
+
+* **AMATH 590**: Topics in Random Matrix Theory and High Dimensional Probability
+
+  - I discussed a paper that used random matrix theory to study polynomial graph neural networks. Here is the [slide deck](https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/amath_590_slides.pdf).
+
+# Undergraduate Course Projects (UCLA)
 
 * **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
@@ -25,10 +31,10 @@ redirect_from:
 
 * **STAT 147**: Data Technologies for Data Scientists
 
-  - A [slide deck](https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/fedlearn.pdf) overviewing federated learning, its applications, and recent advances in the field.
+  - I gave a brief overview of federated learning, its applications, and recent advances in the field with this [slide deck](https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/fedlearn.pdf).
 
 * **STAT 184**: Societal Impacts of Data
 
-  - A brief [report](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989459/stats_184_project.pdf) surveying methods addressing sample selection bias.
+  - I wrote a brief [report](https://github.com/ethanjyoung/ethanjyoung.github.io/files/9989459/stats_184_project.pdf) surveying methods addressing sample selection bias.
 
 
