@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Statistics PhD student at UCLA. I earned my MS in Applied and Computational Mathematics from the University of Washington and my BS in Data Theory from UCLA.
+I am a first year Statistics PhD student at UCLA. I earned my MS in Applied and Computational Mathematics from the University of Washington and my BS in Data Theory from UCLA.
 
 My research interests include network analysis, deep learning theory, and kernel methods. Recently, I have been interested in studying nonlinear feature learning in two-layer neural networks trained with one gradient step.
 
