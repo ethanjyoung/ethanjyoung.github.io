@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current advisors and collaborators:
-* I am not currently working with anyone.
+* Guido Montúfar (UCLA, Mathematics and Statistics and Data Science).
 
 ## Past advisors and collaborators:
 * **Faculty**
