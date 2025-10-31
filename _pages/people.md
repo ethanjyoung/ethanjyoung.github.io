@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Current advisors and collaborators:
-* Guido Montúfar (UCLA, Mathematics and Statistics and Data Science).
-* Yuhua Zhu (UCLA, Statistics and Data Science).
+* Guido Montúfar (UCLA, Mathematics and Statistics and Data Science)
+* Yuhua Zhu (UCLA, Statistics and Data Science)
 
 ## Past advisors and collaborators:
 * **Faculty**
