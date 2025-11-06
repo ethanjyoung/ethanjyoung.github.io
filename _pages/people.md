@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current advisors and collaborators:
 * Guido Montúfar (UCLA, Mathematics and Statistics and Data Science)
-* Yuhua Zhu (UCLA, Statistics and Data Science)
+* Rishi Sonthalia (Boston College, Mathematics)
 
 ## Past advisors and collaborators:
 * **Faculty**
