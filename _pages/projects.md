@@ -6,6 +6,4 @@ author_profile: true
 ---
 
 ## Nonlinear feature learning in shallow neural networks
-With Guido Montúfar and Rishi Sonthalia
-  * Neural networks (NNs) are widely used, but the reasons behind their success are still active areas of research. The line of research we are interested in explores how the early phase of gradient descent leads to feature learning. I have looked at low-rank behavior in the gradients of the training loss for various parametrizations (see [here](https://arxiv.org/abs/2011.14522)) of two-layer neural networks in the proportional scaling regime. I have found [these](https://arxiv.org/abs/2205.01445) [papers](https://arxiv.org/abs/2510.01303) to be particularly helpful.
-
+  * Neural networks (NNs) are widely used, but the reasons behind their success are still active areas of research. What I am interested in exploring is how the first few steps of gradient descent leads to feature learning. I have looked at the distributions of singular values in the gradients and updated (inner) weight matrix for various parametrizations (see [here](https://arxiv.org/abs/2011.14522)) of two-layer NNs in the proportional scaling regime. This [paper](https://arxiv.org/abs/2205.01445) is a good start to understanding this line of research. More recently, I began working with Rishi Sonthalia and Guido Montúfar on a follow-up to this [paper](https://arxiv.org/abs/2510.01303). We are studying low-rank structure in the gradients of the training loss for two-layer NNs and aim to characterize the hidden features.
