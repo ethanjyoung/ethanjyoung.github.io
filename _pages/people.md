@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Current advisors and collaborators:
+* Arash Amini (UCLA, Statistics and Data Science)
 * Guido Montúfar (UCLA, Mathematics and Statistics and Data Science)
 * Rishi Sonthalia (Boston College, Mathematics)
 
