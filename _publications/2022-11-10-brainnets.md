@@ -1,5 +1,5 @@
 ---
-title: "Comparing shallow and deep graph models for brain network analysis"
+title: "Comparing Shallow and Deep Graph Models for Brain Network Analysis"
 collection: publications
 permalink:
 excerpt:
