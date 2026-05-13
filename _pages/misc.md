@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-# Graduate Course Projects (UW)
+# Course Projects
+
+## Graduate
 
 * **AMATH 590**: Topics in Random Matrix Theory and High Dimensional Probability
 
   - I discussed a paper that used random matrix theory to study polynomial graph neural networks. Here is the [slide deck](https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/amath_590_slides.pdf). Here is the [report](https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/amath_590_report.pdf).
 
-# Undergraduate Course Projects (UCLA)
+## Undergraduate
 
 * **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
@@ -23,7 +25,7 @@ redirect_from:
 
 * **MATH 148**: Experience of Data Science
 
-  - My group performed data engineering and data analysis with a dataset from Fingerhut. We also communicated our findings to them, which is contained in a <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/math_148_report.pdf" download>report</a> and <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/math_148_slides.pdf" download>slides</a>.
+  - My group performed data engineering and data analysis with a dataset from Fingerhut. We also communicated our findings to them, which are contained in a <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/math_148_report.pdf" download>report</a> and <a href="https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/math_148_slides.pdf" download>slides</a>.
 
 * **MATH 168**: Introduction to Networks
 
