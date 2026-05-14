@@ -12,6 +12,6 @@ I am a first year Statistics PhD student at UCLA. I earned my MS in Applied and 
 
 My Erdős number is 4, and the shortest path is given by
 
-<center>Paul Erdős — Fan Chung — Andrea L. Bertozzi — Mason A. Porter — Ethan Young.</center>
+<div style="text-align: center;">Paul Erdős — Fan Chung — Andrea L. Bertozzi — Mason A. Porter — Ethan Young.</div>
 
 You can reach me at ethan \[dot\] young \[at\] ucla \[dot\] edu.
