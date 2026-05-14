@@ -11,13 +11,9 @@ redirect_from:
 
 # Course Projects
 
-## Graduate
-
 * **AMATH 590**: Topics in Random Matrix Theory and High Dimensional Probability
 
   - I discussed a paper that used random matrix theory to study polynomial graph neural networks. Here is the [slide deck](https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/amath_590_slides.pdf). Here is the [report](https://github.com/ethanjyoung/ethanjyoung.github.io/raw/master/files/amath_590_report.pdf).
-
-## Undergraduate
 
 * **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
