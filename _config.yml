@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ethan Young"
+site_theme               : "contrast"
 title_separator          : "-"
 name                     : &name "Ethan Young"
 description              : &description "Personal Website"
