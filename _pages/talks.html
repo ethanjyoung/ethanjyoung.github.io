@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
 ---
