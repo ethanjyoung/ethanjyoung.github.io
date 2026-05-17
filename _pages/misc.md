@@ -8,6 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+# People
+## Current advisors and collaborators:
+* Guido Montúfar (UCLA, Mathematics and Statistics and Data Science)
+* Rishi Sonthalia (Boston College, Mathematics)
+
+## Past advisors and collaborators:
+* **Faculty**
+  - Mathieu Bauchy (UCLA, Civil and Environmental Engineering), Mason Porter (UCLA, Mathematics), Carl Yang (Emory University, Computer Science)
+
+* **Postdoctoral scientists**
+  - Yu Song (UCLA, Civil and Environmental Engineering)
+
+* **Undergraduate students**
+  - Erica Choi (Columbia University), Sally Smith (Georgia Institute of Technology), Yuetian Sun (UCLA)
 
 # Course Projects
 
