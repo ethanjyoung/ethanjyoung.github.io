@@ -14,7 +14,13 @@ I am fortunate to have the opportunity to work with
 * Rishi Sonthalia (Boston College, Mathematics)
 
 Before I started my Ph.D., I also worked with
-* Mason Porter* (UCLA), Carl Yang (Emory University), Erica Choi* (Columbia University), Sally Smith* (Georgia Institute of Technology), Mathieu Bauchy (UCLA), Yu Song (UCLA), Yuetian Sun (UCLA)
+* Mason Porter* (UCLA)
+* Carl Yang (Emory University)
+* Erica Choi* (Columbia University)
+* Sally Smith* (Georgia Institute of Technology)
+* Mathieu Bauchy (UCLA)
+* Yu Song (UCLA)
+* Yuetian Sun (UCLA)
 
 \* denotes coauthor.
 
