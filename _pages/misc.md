@@ -15,10 +15,10 @@ redirect_from:
 
 ## Past advisors and collaborators:
 * **Faculty**
-  - Mathieu Bauchy (UCLA, Civil and Environmental Engineering), Mason Porter (UCLA, Mathematics), Carl Yang (Emory University, Computer Science)
+  - Mathieu Bauchy (UCLA), Mason Porter (UCLA), Carl Yang (Emory University)
 
 * **Postdoctoral scientists**
-  - Yu Song (UCLA, Civil and Environmental Engineering)
+  - Yu Song (UCLA)
 
 * **Undergraduate students**
   - Erica Choi (Columbia University), Sally Smith (Georgia Institute of Technology), Yuetian Sun (UCLA)
