@@ -16,7 +16,7 @@ I am fortunate to have the opportunity to work with the following people:
 Before I started my Ph.D., I also worked with:
 * Mathieu Bauchy (UCLA), Mason Porter* (UCLA), Carl Yang (Emory University), Yu Song (UCLA), Erica Choi* (Columbia University), Sally Smith* (Georgia Institute of Technology), Yuetian Sun (UCLA)
 
-The * indicates that I have published a paper with them.
+The * indicates a coauthor.
 
 # Course Projects
 
