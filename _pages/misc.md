@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-# People
-## Current advisors and collaborators:
+# Collaborators and advisors
+I am fortunate to have the opportunity to work with the following people:
 * Guido Montúfar (UCLA, Mathematics and Statistics and Data Science)
 * Rishi Sonthalia (Boston College, Mathematics)
 
-## Past advisors and collaborators:
+Before I started my Ph.D., I also worked with:
 * **Faculty**
   - Mathieu Bauchy (UCLA), Mason Porter (UCLA), Carl Yang (Emory University)
 
