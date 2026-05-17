@@ -14,7 +14,9 @@ I am fortunate to have the opportunity to work with the following people:
 * Rishi Sonthalia (Boston College, Mathematics)
 
 Before I started my Ph.D., I also worked with:
-* Mathieu Bauchy (UCLA), Mason Porter* (UCLA), Carl Yang (Emory University), Yu Song (UCLA), Erica Choi (Columbia University), Sally Smith (Georgia Institute of Technology), Yuetian Sun (UCLA)
+* Mathieu Bauchy (UCLA), Mason Porter* (UCLA), Carl Yang (Emory University), Yu Song (UCLA), Erica Choi* (Columbia University), Sally Smith* (Georgia Institute of Technology), Yuetian Sun (UCLA)
+
+* indicates that I have worked with theml.
 
 # Course Projects
 
