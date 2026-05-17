@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 # Collaborators and advisors
-I am fortunate to have the opportunity to work with the following people:
+I am fortunate to have the opportunity to work with
 * Guido Montúfar (UCLA, Mathematics and Statistics and Data Science)
 * Rishi Sonthalia (Boston College, Mathematics)
 
-Before I started my Ph.D., I also worked with:
+Before I started my Ph.D., I also worked with
 * Mason Porter* (UCLA), Carl Yang (Emory University), Erica Choi* (Columbia University), Sally Smith* (Georgia Institute of Technology), Mathieu Bauchy (UCLA), Yu Song (UCLA), Yuetian Sun (UCLA)
 
 \* denotes coauthor.
