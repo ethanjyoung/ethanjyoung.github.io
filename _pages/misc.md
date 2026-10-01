@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 # Collaborators and advisors
 I am fortunate to have the opportunity to work with
-* Guido Montúfar (UCLA, Mathematics and Statistics and Data Science)
+* Guido Montúfar (UCLA, Mathematics and Statistics & Data Science)
 * Rishi Sonthalia (Boston College, Mathematics)
 
 Before I started my PhD, I also worked with
