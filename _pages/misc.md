@@ -30,7 +30,7 @@ Before I started my PhD, I also worked with
 
 * **MATH 168**: Introduction to Networks
 
-  - My group worked on a disease-protein-document network analysis. Here is our [report]({{ base_path }}/files/math_168_project.pdf), [repository](https://github.com/irsyadadam/Analysis-of-CVD-subtypes-using-Random-Projections-Clustering), and [slides]({{ base_path }}/files/math_168_slides.pdf).
+  - My group worked on a disease-protein-document network analysis. Here is our [report]({{ base_path }}/files/math_168_report.pdf), [repository](https://github.com/irsyadadam/Analysis-of-CVD-subtypes-using-Random-Projections-Clustering), and [slides]({{ base_path }}/files/math_168_slides.pdf).
 
 * **MATH 148**: Experience of Data Science
 
