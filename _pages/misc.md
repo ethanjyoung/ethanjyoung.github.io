@@ -34,7 +34,7 @@ Before I started my PhD, I also worked with
 
 * **MATH 148**: Experience of Data Science
 
-  - My group performed data engineering and data analysis with a dataset from Fingerhut. We also communicated our findings to them, which are contained in a [report]({{ base_path }}/files/math_148_report.pdf") and [slides]({{ base_path }}/files/math_148_slides.pdf).
+  - My group performed data engineering and data analysis with a dataset from Fingerhut. We also communicated our findings to them, which are contained in a [report]({{ base_path }}/files/math_148_report.pdf) and [slides]({{ base_path }}/files/math_148_slides.pdf).
 
 * **MATH 42**: Introduction to Data-Driven Mathematical Modeling: Life, the Universe, and Everything
 
