@@ -3,7 +3,7 @@ title: "Comparing Shallow and Deep Graph Models for Brain Network Analysis"
 collection: publications
 category: conferences
 permalink:
-excerpt:
+excerpt: We benchmark the classification performance of graph kernel SVM and GNNs on neuroimaging data.
 date: 2022-11-10
 venue: 'IEEE Big Data'
 paperurl:
