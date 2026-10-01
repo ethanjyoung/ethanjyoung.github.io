@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 # Collaborators and advisors
 I am fortunate to have the opportunity to work with
-* Guido Montúfar (UCLA, Mathematics and Statistics & Data Science)
-* Rishi Sonthalia (Boston College, Mathematics)
+* <a href="{{https://www.math.ucla.edu/~montufar/}}">Guido Montúfar</a> (UCLA, Mathematics and Statistics & Data Science)
+* <a href="{{https://sites.google.com/bc.edu/rishi-sonthalia}}">Rishi Sonthalia</a> (Boston College, Mathematics)
 
 Before I started my PhD, I also worked with
-* Mason Porter* (UCLA)
+* <a href="{{https://www.math.ucla.edu/~mason/}}">Mason Porter</a>* (UCLA)
 * Carl Yang (Emory University)
 * Erica Choi* (Columbia University)
 * Sally Smith* (Georgia Institute of Technology)
