@@ -11,7 +11,9 @@ author_profile: true
 
 * **STATS 231B**: Methods of Machine Learning
 
-* **STATS 201B**: Statistical Modeling Learning
+* **STATS 212**: Graphical Models
+
+* **STATS 201B**: Statistical Modeling and Learning
 
 * **AMATH 590**: Topics in Random Matrix Theory and High Dimensional Probability
 
