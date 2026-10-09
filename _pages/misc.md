@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 # Course Projects
+* **STATS 200C**: High-Dimensional Statistics
+
+* **STATS 201B**: Statistical Modeling Learning
 
 * **AMATH 590**: Topics in Random Matrix Theory and High Dimensional Probability
 
