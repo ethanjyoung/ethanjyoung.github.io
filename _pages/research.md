@@ -10,5 +10,5 @@ It is widely believed that nonlinear feature learning drives the remarkable perf
 
 In the last few months, I have worked with Rishi Sonthalia and Guido Montúfar on a follow-up to [these](https://arxiv.org/abs/2310.07891) [papers](https://arxiv.org/abs/2510.01303). We are studying low-rank structure in the feature matrices of two-layer NNs trained with one large gradient step. Our theory accommodates a spiked data model where the bulk is allowed to be anisotropic and ill-conditioned as well as regularization in the form of weight decay. To characterize this low-rank behavior, we use generalized Hermite polynomials to decompose the feature matrix into a sum of bulk and spike terms. Importantly, we show that as we increase the step size, the number of potential spikes increases combinatorially. We also establish a Gaussian equivalence property for the untrained feature matrix, which allows us to derive a staircase property for the generalization error.
 
-## Network learning
-In the past, I worked on projects in network science and graph learning. Problems I am currently interested in include community detection, dynamics on networks, and estimating sparse graphons.
+## Network science
+In the past, I worked on various projects, both methodological and applied, in networks. Problems I am currently interested in include community detection, dynamics on networks, and learning sparse graphons.
