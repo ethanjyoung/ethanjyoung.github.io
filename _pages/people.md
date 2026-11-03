@@ -10,9 +10,9 @@ author_profile: true
 I am fortunate to have the opportunity to work with
 * [Guido Montúfar](https://www.math.ucla.edu/~montufar/) (UCLA, Mathematics and Statistics & Data Science)
 * [Rishi Sonthalia](https://sites.google.com/bc.edu/rishi-sonthalia) (Boston College, Mathematics)
-* Seongwoo Choi (UCLA, Statistics & Data Science), mentee
-* Nhan Pham (UCLA, Statistics & Data Science), mentee
-* Albert Zhang (UCLA, Mathematics/Economics), mentee
+<!--* Seongwoo Choi (UCLA, Statistics & Data Science), mentee-->
+<!--%* Nhan Pham (UCLA, Statistics & Data Science), mentee-->
+<!--%* Albert Zhang (UCLA, Mathematics/Economics), mentee-->
 
 Before I started my PhD, I worked with
 * [Mason Porter](https://www.math.ucla.edu/~mason/)* (UCLA)
