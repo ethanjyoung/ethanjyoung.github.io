@@ -21,7 +21,7 @@ author_profile: true
 
 * **STATS 201B**: Statistical Modeling and Learning
 
-  - I extended the DML framework to estimate nonlinear treatment effect functions. Here is the [report]({{ base_path }}/files/stats-201b-report.pdf).
+  - I extended the DML framework to estimate nonlinear treatment effect functions. Here is the [report]({{ base_path }}/files/stats-201b-project.pdf).
 
 * **AMATH 590** (UW): Topics in Random Matrix Theory and High Dimensional Probability
 
