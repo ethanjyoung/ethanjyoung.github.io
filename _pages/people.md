@@ -10,6 +10,7 @@ author_profile: true
 I am fortunate to have the opportunity to work with
 * [Guido Montúfar](https://www.math.ucla.edu/~montufar/) (UCLA, Mathematics and Statistics & Data Science)
 * [Rishi Sonthalia](https://sites.google.com/bc.edu/rishi-sonthalia) (Boston College, Mathematics)
+* [Huitao Yang](https://davidyht.github.io/) (UCLA)
 <!--* Seongwoo Choi (UCLA, Statistics & Data Science), mentee-->
 <!--%* Nhan Pham (UCLA, Statistics & Data Science), mentee-->
 <!--%* Albert Zhang (UCLA, Mathematics/Economics), mentee-->
