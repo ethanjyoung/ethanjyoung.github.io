@@ -27,6 +27,8 @@ Before I started my PhD, I worked with
 \* denotes coauthor.
 
 # For students
+**Note**: Currently, the best route for working with me is the [Research Training Group](https://rtg-statistics-and-data-theory.stat.ucla.edu/).
+
 I occasionally receive inquiries from undergraduate students. Qualities (beyond academic preparation) that are important are research fit, time commitment, and interest. In general, if you are interested in working with me, please consider the following questions:
 * **What kind of research do you want to do?** Broadly speaking, research falls into theory, applied, and methods. I primarily work in theory, but have extensive experience with applied projects. I want to note that theory research generally requires more substantial coursework. I am also happy to help turn ideas you have into concrete projects.
 * **What do you want to get out of this project?** If a publication, then the expected time investment will be significant (but hopefully highly rewarding). In my experience, any kind of research is valuable, and one often can't expect that all research can lead to publication. Smaller (usually computationally heavy) projects are always great, especially to gauge what the research landscape looks like.
