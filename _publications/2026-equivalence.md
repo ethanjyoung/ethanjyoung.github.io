@@ -6,6 +6,7 @@ permalink:
 excerpt: We establish a conditional comparison result for traces and bilinear forms of Gram resolvents.
 date: 2026-11-16
 status: in preparation
+venue: ""
 paperurl:
 citation:
 ---
