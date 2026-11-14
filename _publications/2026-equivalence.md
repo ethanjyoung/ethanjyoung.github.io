@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink:
 excerpt: We establish a conditional comparison result for Gram resolvent quantities.
-date: 11-16-2026
+date: 2026-11-16
 venue: 'TBD'
 paperurl:
 citation:
