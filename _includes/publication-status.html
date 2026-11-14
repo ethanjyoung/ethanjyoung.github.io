@@ -1,0 +1,10 @@
+{% assign status = include.publication.status | default: 'published' | strip | downcase %}
+{% assign venue = include.publication.venue | strip %}
+{% case status %}
+  {% when 'published' %}
+    <p>Published{% if venue != empty %} in <i>{{ venue | escape_once }}</i>{% endif %}{% if include.publication.date %}, {{ include.publication.date | date: "%Y" }}{% endif %}</p>
+  {% when 'under review' %}
+    <p>Under review{% if venue != empty %} at <i>{{ venue | escape_once }}</i>{% endif %}</p>
+  {% else %}
+    <p>{{ status | capitalize | escape }}</p>
+{% endcase %}
