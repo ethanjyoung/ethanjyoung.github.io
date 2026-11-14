@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the [Department of Statistics & Data Science](https://statistics.ucla.edu/) at [UCLA](https://www.ucla.edu/), advised by Guido Montúfar and Rishi Sonthalia. I earned my MS in Applied and Computational Mathematics from the University of Washington and my BS in Data Theory from UCLA. I am broadly interested in studying emergent phenomena in large-scale learning systems. My work develops a program for understanding feature learning in neural networks. Recently, I have been thinking about curriculum learning in a self-play environment. Please see my [research page](https://ethanjyoung.github.io/research/) for more details. If you are an undergraduate student interested in working with me, please go to [this page](https://ethanjyoung.github.io/people/) first for some things to consider.
+I am a second-year PhD student in the [Department of Statistics & Data Science](https://statistics.ucla.edu/) at [UCLA](https://www.ucla.edu/), advised by Guido Montúfar and Rishi Sonthalia. I earned my MS in Applied and Computational Mathematics from the University of Washington and my BS in Data Theory from UCLA.
 
-You can reach me at ethan \[dot\] young \[at\] ucla \[dot\] edu.
+I am broadly interested in studying emergent phenomena in large-scale learning systems. My work develops a program for understanding feature learning in neural networks. More recently, I have been thinking about curriculum learning in a self-play environment. Please see my [research page](https://ethanjyoung.github.io/research/) and [publications](https://ethanjyoung.github.io/publications/) for more details.
+
+If you are an undergraduate student interested in working with me, please go to [this page](https://ethanjyoung.github.io/people/) first for some things to consider.
+
+I am always happy to chat! Feel free to reach me at ethan \[dot\] young \[at\] ucla \[dot\] edu.
 
 My Erdős number is 4, and the shortest path is given by
 <div style="text-align: center;">
