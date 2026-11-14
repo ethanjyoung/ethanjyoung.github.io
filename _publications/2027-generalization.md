@@ -14,3 +14,5 @@ citation:
 {% include base_path %}
 
 _Joint with Rishi Sonthalia and Guido Montúfar_.
+
+This is the sequel to our work characterizing the spectral structure of the feature matrix. We use our conditional equivalence theorem from a previous paper to obtain deterministic test-error formulas under moment, stability, and convergence conditions. By imposing additional assumptions, we deduce a staircase property for the test error.
