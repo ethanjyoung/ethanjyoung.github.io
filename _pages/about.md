@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year PhD student in the [Department of Statistics & Data Science](https://statistics.ucla.edu/) at [UCLA](https://www.ucla.edu/), advised by Guido Montúfar and Rishi Sonthalia. I earned my MS in Applied and Computational Mathematics from the University of Washington and my BS in Data Theory from UCLA.
 
-I am broadly interested in studying emergent phenomena in large-scale learning systems. My work develops a program for understanding feature learning in neural networks. More recently, I have been thinking about curriculum learning in a self-play environment. Please see my [research page](https://ethanjyoung.github.io/research/) and [publications](https://ethanjyoung.github.io/publications/) for more details.
+I am broadly interested in studying emergent phenomena in large-scale learning systems. My recent work develops a program for understanding feature learning in neural networks. I have also been thinking about curriculum learning in a self-play environment. Please see my [research page](https://ethanjyoung.github.io/research/) and [publications](https://ethanjyoung.github.io/publications/) for more details.
 
 If you are an undergraduate student interested in working with me, please go to [this page](https://ethanjyoung.github.io/people/) first for some things to consider.
 
